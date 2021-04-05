@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="222 198 483 241" width="483" height="241">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledCenterBall_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 8 8" markerWidth="8" markerHeight="8" color="#0432ff">
+      <g>
+        <circle cx="2.9999986" cy="0" r="2.99999695310321" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledCenterBall_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-7 -4 8 8" markerWidth="8" markerHeight="8" color="#0432ff">
+      <g>
+        <circle cx="-2.9999986" cy="0" r="2.99999695310321" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.1\n2020-12-18 03:28:25 +0000</metadata>
+  <g id="Canvas_1" fill="none" stroke-dasharray="none" stroke="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" x="222" y="198" width="483" height="241"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="340.5" y="199" width="287.5" height="126" fill="white"/>
+        <rect x="340.5" y="199" width="287.5" height="126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(345.5 252.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="102.886" y="15">Computer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="222.5" y="299" width="60.5" height="51.5" fill="white"/>
+        <rect x="222.5" y="299" width="60.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(227.5 306.302)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.162" y="15">J-Link </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.282" y="33.448">Mini</tspan>
+        </text>
+      </g>
+      <g id="Line_4">
+        <path d="M 337.5 262 L 253.01172 262 L 253.01172 266.51953 L 252.75 291 L 252.75 296" marker-end="url(#FilledCenterBall_Marker)" marker-start="url(#FilledCenterBall_Marker_2)" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5">
+        <rect x="394" y="394.5" width="116.5" height="44" fill="white"/>
+        <rect x="394" y="394.5" width="116.5" height="44" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(399 407.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="23.618" y="15">nrfMicro</tspan>
+        </text>
+      </g>
+      <g id="Line_7">
+        <path d="M 631 262.6678 L 704 263 L 704 418 L 513.49995 416.86495" marker-end="url(#FilledCenterBall_Marker)" marker-start="url(#FilledCenterBall_Marker_2)" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_8">
+        <path d="M 252.75 353.5 L 252.75 415.3242 L 391.00005 416.139" marker-end="url(#FilledCenterBall_Marker)" marker-start="url(#FilledCenterBall_Marker_2)" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <rect x="641.5" y="247.776" width="42.88" height="28.447998" fill="white"/>
+        <text transform="translate(646.5 252.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="50803806e-20" y="15">USB</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="269.00352" y="247.776" width="42.88" height="28.447998" fill="white"/>
+        <text transform="translate(274.00352 252.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="50803806e-20" y="15">USB</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="266.55587" y="401.31846" width="46.448" height="28.447998" fill="white"/>
+        <text transform="translate(271.55587 406.31846)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15987212e-20" y="15">SWD</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
